@@ -10,6 +10,7 @@
 _https://www.datacamp.com/tutorial/sql-commands-glossaryan-overview-of-25-most-popular-sql-commands_
 _work in progress..._
 
+
 # SQL Excercises based on the coffee shop data
 - _work in progress_
 -
