@@ -34,5 +34,5 @@ _work in progress..._
 - Busiest day per store
 - Stores with revenue below average
 - Payment method share per store
-•	Products with declining sales
-•	Top 5 customers by spend
+- Products with declining sales
+- Top 5 customers by spend
