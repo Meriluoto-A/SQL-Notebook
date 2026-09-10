@@ -12,26 +12,27 @@ _work in progress..._
 
 # SQL Excercises based on the coffee shop data
 - _work in progress_
-•	List all store locations
-•	Show all payment methods
-•	Find all transactions from Paris
-•	Count transactions per store
-•	Find total revenue per day
-•	Find the most common payment method
-•	List all products and unit prices
-•	Find all transactions above €20
-•	Show all Tokyo transactions
-•	Revenue per store
-•	Units sold per product
-•	Top 3 stores by revenue
-•	Revenue by payment method
-•	Find the cheapest product
-•	Find the most expensive product
-•	Daily revenue for Paris
-•	Transactions with mobile payments
-•	Best selling product per store
-•	Busiest day per store
-•	Stores with revenue below average
-•	Payment method share per store
+-
+- List all store locations
+- Show all payment methods
+- Find all transactions from Paris
+- Count transactions per store
+- Find total revenue per day
+- Find the most common payment method
+- List all products and unit prices
+- Find all transactions above €20
+- Show all Tokyo transactions
+- Revenue per store
+- Units sold per product
+- Top 3 stores by revenue
+- Revenue by payment method
+- Find the cheapest product
+- Find the most expensive product
+- Daily revenue for Paris
+- Transactions with mobile payments
+- Best selling product per store
+- Busiest day per store
+- Stores with revenue below average
+- Payment method share per store
 •	Products with declining sales
 •	Top 5 customers by spend
